@@ -1,0 +1,31 @@
+.op-buttons {
+ 
+  background-color: #F5F5F5;
+}
+
+.num-buttons {
+  background-color: #E8E8E8;
+}
+
+.display {
+  color: white;
+  padding: 15px;
+  min-width: 100%;
+  text-align: end;
+ 
+}
+
+
+.frame {
+  border-radius: 10px;
+  min-width: 300px;
+}
+
+.btn {
+  text-align: center;
+}
+
+::placeholder {
+  color: white;
+  opacity: 1;
+}
